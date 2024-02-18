@@ -1,6 +1,6 @@
 Expenditure Manager
 
-![App Icon](/images/img1.png "App Icon" width="100" height="100")
+
 
     Overview
 Expenditure Manager is a mobile app designed to help users manage their financial transactions effectively. With this app, users can easily track their expenses, view spending patterns, and make informed financial decisions. It provides intuitive features for adding, viewing, and deleting transactions, along with visual representation of financial data using charts.
